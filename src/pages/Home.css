@@ -1,0 +1,55 @@
+.a2{
+background-color: white;
+width: 70%;
+height: 700px;
+border-radius: 0px 20px 20px 00px;
+
+}
+.a1{
+    background-color: salmon;
+    width: 30%;
+    height: 700px;
+    border-radius: 20px 0px 0px 20px;
+}
+.row{
+    box-shadow: 10px 10px 10px 10px whitesmoke;
+    border: 2px white;
+    width: 80%;
+    text-align: center;
+    margin-left:140px;
+}
+
+.a5{
+border-radius:10px;
+border:2px white;
+box-shadow:10px;
+background-color:rgb(202, 192, 192);
+width:100px;
+height:140px;
+
+.a6{
+  position: absolute;
+  margin-left: -40px;
+  margin-top: -20px;
+}
+
+.a7{
+margin-top:80px;
+}
+
+}
+
+.a8{
+    
+    margin-top: 600px;
+    text-decoration: none;
+    color: white;
+    margin-left: -200px;
+
+   
+}
+
+.a10{
+    text-align: left;
+    margin-left: 150px;
+}
